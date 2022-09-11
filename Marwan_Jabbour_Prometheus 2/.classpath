@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/android-1.5_r4.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-contrib-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-contrib-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-contrib-2.98.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-core-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-core-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-core-2.98.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-imgrec-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-imgrec-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-imgrec-2.98.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-ocr-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-ocr-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/neuroph-ocr-2.98.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/slf4j-nop-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/visrec-api-1.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/visrec-api-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/marwanjabbour/Desktop/Marwan_Jabbour_Prometheus 2/lib/visrec-api-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="out/production/Research_2021_V3"/>
+</classpath>
